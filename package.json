@@ -1,5 +1,5 @@
 {
-  "name": "backend_lesson_2",
+  "name": "backend_lesson_3",
   "version": "1.0.0",
   "description": "technotes Dark Piodos Mern Tutorial",
   "main": "server.js",
@@ -14,7 +14,9 @@
     "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
     "date-fns": "^3.6.0",
+    "dotenv": "^16.4.5",
     "express": "^4.19.2",
+    "mongoose": "^8.4.4",
     "uuid": "^10.0.0"
   },
   "devDependencies": {
